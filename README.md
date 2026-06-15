@@ -1,5 +1,10 @@
 # AI-Powered SOC Platform
 
+![CI](https://github.com/KrishnaHarivindh/AI-Powered-SOC-Platform/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/KrishnaHarivindh/AI-Powered-SOC-Platform)
+![Last Commit](https://img.shields.io/github/last-commit/KrishnaHarivindh/AI-Powered-SOC-Platform)
+![Language](https://img.shields.io/github/languages/top/KrishnaHarivindh/AI-Powered-SOC-Platform)
+
 Mini enterprise SIEM and Security Operations Center platform inspired by Splunk, Elastic, Microsoft Sentinel, and IBM QRadar.
 
 ## Overview
